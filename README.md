@@ -1,132 +1,109 @@
 <div align="center">
+  <img src="assets/neural-banner.svg" alt="Jay Singh — Building Intelligent Systems" width="100%"/>
+</div>
 
-# JAY SINGH
+<br/>
 
-### BUILDING INTELLIGENT SYSTEMS.
+<table>
+  <tr>
+    <td width="62%" valign="top">
 
-`AI ENGINEERING` &nbsp; / &nbsp; `MACHINE LEARNING` &nbsp; / &nbsp; `APPLIED AI`
+### `01 / ABOUT`
 
-*Engineering ideas into useful systems.*
+I'm a final-year Electronics and Computer Science engineering student focused on **AI engineering, machine learning, and intelligent applications**.
 
-[PROJECTS](#02--selected-builds) &nbsp; · &nbsp; [TECH STACK](#03--engineering-stack) &nbsp; · &nbsp; [CONTACT](#06--connect)
+I enjoy building systems that connect machine learning with practical software engineering. My background in UX/UI design also shapes how I approach the products I build: the technology matters, but so does the experience around it.
 
+**My approach:** understand the problem, build thoughtfully, evaluate honestly, and keep improving.
+
+    </td>
+    <td width="38%" valign="top">
+
+### `PROFILE`
+
+📍 Mumbai, India
+
+🎓 Electronics & Computer Science
+
+🤖 AI Engineering · Machine Learning
+
+🎨 UX/UI · Product Design
+
+📫 **[Email me](mailto:jays.work1114@gmail.com)**
+
+𝕏 **[@Syncjay114](https://x.com/Syncjay114)**
+
+    </td>
+  </tr>
+</table>
+
+---
+
+### `02 / GITHUB OVERVIEW`
+
+<div align="center">
+  <a href="https://github.com/j-xingh">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=j-xingh&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C6FF00&text_color=F2F2F2&icon_color=C6FF00&ring_color=C6FF00" alt="GitHub statistics"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/j-xingh">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-xingh&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C6FF00&text_color=F2F2F2" alt="Most-used programming languages"/>
+  </a>
 </div>
 
 ---
 
-### `01 / INTRODUCTION`
+### `03 / TECH STACK`
 
-I'm an Electronics and Computer Science engineering student focused on **AI engineering, machine learning, and intelligent applications.**
-
-I enjoy working across the process of building AI systems—from understanding the underlying models to developing APIs and designing interfaces people can actually use.
-
-My background in UX/UI design gives me an additional perspective: I care about not only whether a system works, but also how people interact with it.
-
-**CURRENT INTERESTS**
-
-`Deep Learning` &nbsp; `LLM Applications` &nbsp; `Applied Machine Learning` &nbsp; `AI Systems`
-
----
-
-### `02 / SELECTED BUILDS`
-
-*A selection of experiments, models, and applications.*
-
-<!-- PROJECT CARD 01 -->
-
-#### 01 — FraudGuard
-
-**Machine learning · Fraud detection**
-
-An ML-based transaction fraud detection project. Explore the implementation, model pipeline, and evaluation methodology in the repository.
-
-`PYTHON` &nbsp; `MACHINE LEARNING`
-
-[VIEW REPOSITORY ↗](https://github.com/j-xingh/fraud-guard)
-
----
-
-<!-- PROJECT CARD 02 -->
-
-#### 02 — Hypecheck
-
-**Machine learning · Text analysis**
-
-An exploration of clickbait detection. The repository contains the application, model-related files, and notebooks; the project overview and evaluation documentation are being developed.
-
-`PYTHON` &nbsp; `NLP / TEXT CLASSIFICATION`
-
-[VIEW REPOSITORY ↗](https://github.com/j-xingh/hypecheck)
-
----
-
-<!-- Add future projects by duplicating this structure. -->
-
-#### 03 — More experiments in progress
-
-I'm continuing to build and document projects in applied AI, deep learning, and intelligent applications.
-
-*This section will evolve as new projects become ready to showcase.*
-
----
-
-### `03 / ENGINEERING STACK`
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 **AI & MACHINE LEARNING**
 
-`Python` · `NumPy` · `Pandas` · `scikit-learn` · `PyTorch`
+![Python](https://img.shields.io/badge/Python-C6FF00?style=flat-square&logo=python&logoColor=0D0D0D)
+![NumPy](https://img.shields.io/badge/NumPy-C6FF00?style=flat-square&logo=numpy&logoColor=0D0D0D)
+![Pandas](https://img.shields.io/badge/Pandas-C6FF00?style=flat-square&logo=pandas&logoColor=0D0D0D)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-C6FF00?style=flat-square&logo=scikitlearn&logoColor=0D0D0D)
+![PyTorch](https://img.shields.io/badge/PyTorch-C6FF00?style=flat-square&logo=pytorch&logoColor=0D0D0D)
 
-**DEEP LEARNING & APPLIED AI**
+    </td>
+    <td width="50%" valign="top">
 
-`Neural Networks` · `CNNs` · `Transformers` · `LLM Applications`
+**ENGINEERING & DEVELOPMENT**
 
-**SOFTWARE ENGINEERING**
+![FastAPI](https://img.shields.io/badge/FastAPI-191919?style=flat-square&logo=fastapi&logoColor=C6FF00)
+![Git](https://img.shields.io/badge/Git-191919?style=flat-square&logo=git&logoColor=C6FF00)
+![GitHub](https://img.shields.io/badge/GitHub-191919?style=flat-square&logo=github&logoColor=F2F2F2)
+![JavaScript](https://img.shields.io/badge/JavaScript-191919?style=flat-square&logo=javascript&logoColor=C6FF00)
+![HTML5](https://img.shields.io/badge/HTML5-191919?style=flat-square&logo=html5&logoColor=C6FF00)
+![CSS3](https://img.shields.io/badge/CSS3-191919?style=flat-square&logo=css3&logoColor=C6FF00)
 
-`FastAPI` · `REST APIs` · `Git` · `GitHub` · `Testing`
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
 
-**INTERFACE & PRODUCT DESIGN**
+**DESIGN & PRODUCT**
 
-`Figma` · `UX/UI Design` · `Prototyping` · `HTML` · `CSS` · `JavaScript`
+![Figma](https://img.shields.io/badge/Figma-191919?style=flat-square&logo=figma&logoColor=C6FF00)
+![UX/UI Design](https://img.shields.io/badge/UX%2FUI_Design-191919?style=flat-square&logoColor=C6FF00)
+![Prototyping](https://img.shields.io/badge/Prototyping-191919?style=flat-square&logoColor=C6FF00)
 
----
-
-### `04 / CURRENTLY EXPLORING`
-
-```text
-01   Deep learning fundamentals and model behavior
-02   Building practical applications around AI models
-03   Improving model evaluation and experimentation
-04   Writing cleaner, tested, reproducible code
-```
-
-The goal is to move beyond getting a model to run—to understanding its behavior, evaluating its limitations, and building something useful around it.
-
----
-
-### `05 / ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=j-xingh&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C6FF00&text_color=F2F2F2&icon_color=C6FF00&ring_color=C6FF00" alt="GitHub statistics" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-xingh&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C6FF00&text_color=F2F2F2" alt="Most-used programming languages" width="49%" />
-
-</div>
-
----
-
-### `06 / CONNECT`
-
-Interested in AI engineering, applied machine learning, and building useful software.
-
-**Email:** jays.work1114@gmail.com
-
-[GitHub](https://github.com/j-xingh) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/)
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
 
-`DESIGNED WITH INTENT. BUILT THROUGH ITERATION.`
+### `04 / LET'S BUILD SOMETHING MEANINGFUL`
+
+**Turning ideas into useful systems.**
+
+[GitHub](https://github.com/j-xingh) &nbsp; · &nbsp; [Email](mailto:jays.work1114@gmail.com) &nbsp; · &nbsp; [X](https://x.com/Syncjay114)
+
+<sub>DESIGN WITH INTENT · ENGINEER WITH RIGOR · BUILD FOR IMPACT</sub>
 
 </div>
