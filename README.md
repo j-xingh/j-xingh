@@ -1,30 +1,45 @@
 <p align="center">
-  <img src="assets/neural-banner.svg" alt="Jay Singh — Building Intelligent Systems" width="100%">
+  <img src="assets/Neon Network Systems Banner.png" alt="Jay Singh — Building Intelligent Systems" width="100%">
 </p>
 
 <p align="center">
-  <strong>AI ENGINEERING &nbsp; / &nbsp; MACHINE LEARNING &nbsp; / &nbsp; APPLIED AI</strong>
+  <code>AI ENGINEERING</code> &nbsp; / &nbsp; <code>MACHINE LEARNING</code> &nbsp; / &nbsp; <code>APPLIED AI</code>
 </p>
 
 ---
 
-## About
+## The short version
 
-I'm a final-year Electronics and Computer Science engineering student building toward **AI engineering and applied machine learning**.
+I like figuring out how machines learn—and what it takes to turn that learning into something useful.
 
-My work sits at the intersection of intelligent systems and practical software. With a background in UX/UI design, I care about both how a system works and how people interact with it.
+Most of my time goes into Python, machine learning, deep learning, and building software around models. I'm especially interested in what happens *after* the model trains: how well it generalizes, where it breaks, and whether someone can actually use it.
 
-I value clear thinking, sound engineering, honest evaluation, and software that solves real problems.
+I also come from a UX/UI background, which means I tend to think about both sides of the screen: **the system doing the work and the person using it.**
 
-**Based in Mumbai, India.**
+Still learning. Still building. Trying to make each project a little less like a tutorial and a little more like real software.
 
-[Email](mailto:jays.work1114@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jay-singh1114) · [GitHub](https://github.com/j-xingh)
+📍 Mumbai, India · Open to AI/ML opportunities
 
 ---
 
-## Technical Toolkit
+## What I like building
 
-**AI & Machine Learning**
+**01 — Models that earn their metrics**  
+Experiments, evaluation, and understanding why a model works—not just reporting its accuracy.
+
+**02 — AI that leaves the notebook**  
+Turning models into usable tools with Python APIs and thoughtful interfaces.
+
+**03 — Software with a human side**  
+Bringing my design background into AI projects so usability isn't an afterthought.
+
+*The repositories below are the work. The README is just the introduction.*
+
+---
+
+## Tools of the trade
+
+**AI / ML**
 
 ![Python](https://img.shields.io/badge/Python-C6FF00?style=flat-square&logo=python&logoColor=0D0D0D)
 ![NumPy](https://img.shields.io/badge/NumPy-B4E600?style=flat-square&logo=numpy&logoColor=0D0D0D)
@@ -32,7 +47,7 @@ I value clear thinking, sound engineering, honest evaluation, and software that 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-96C700?style=flat-square&logo=scikitlearn&logoColor=0D0D0D)
 ![PyTorch](https://img.shields.io/badge/PyTorch-86B500?style=flat-square&logo=pytorch&logoColor=0D0D0D)
 
-**Software Engineering**
+**Building & shipping**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-C6FF00?style=flat-square&logo=fastapi&logoColor=0D0D0D)
 ![Git](https://img.shields.io/badge/Git-B4E600?style=flat-square&logo=git&logoColor=0D0D0D)
@@ -47,16 +62,18 @@ I value clear thinking, sound engineering, honest evaluation, and software that 
 
 ---
 
-## GitHub Activity
+## Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j-xingh&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C6FF00&text_color=F2F2F2&icon_color=B4E600&ring_color=C6FF00&hide=issues" alt="GitHub activity statistics">
-</p>
+I prefer work you can inspect over numbers on a card.
+
+[Explore my repositories, commits and contributions ↗](https://github.com/j-xingh)
 
 ---
 
 <p align="center">
-  <strong>BUILD WITH INTENT. EVALUATE WITH RIGOR.</strong>
+  <sub>BUILD THINGS. BREAK ASSUMPTIONS. LEARN SOMETHING.</sub>
   <br><br>
-  <a href="mailto:jays.work1114@gmail.com">GET IN TOUCH ↗</a>
+  <a href="mailto:jays.work1114@gmail.com">SAY HELLO ↗</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/jay-singh1114">LINKEDIN ↗</a>
 </p>
