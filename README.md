@@ -1,25 +1,132 @@
-# 💡 Who I Am:
-🔭 Exploring the synergy of AI and full-stack web development—I'm diving into projects that blend innovation with functionality!<br><br>🌱Leveling up my full-stack game with React ⚛️, Node.js 🌐, and Express.js ⚡—mastery in progress! 💻✨<br><br>🚀 Excited to dive into open-source projects 🌐 and team up with passionate developers 🤝 to create something amazing! ✨<br><br>📫 Feel free to ping me at jays.work1114@gmail.com<br><br>🌟 I believe in magic —especially when my code works on the first try!
+<div align="center">
 
-<p align="center"> <img 
-  src="https://camo.githubusercontent.com/9939f57a40461f1f7d5ee9c81e8f4634eb6a9339f5a3ced15f2ce471bb18b49b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" 
-  alt="GIF" 
-  style="width: 150px; height: auto;" 
-/> </p>
+# JAY SINGH
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ryts3jru) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Jayded_soul) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Syncjay114) 
+### BUILDING INTELLIGENT SYSTEMS.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=j-xingh&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=j-xingh&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=j-xingh&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+`AI ENGINEERING` &nbsp; / &nbsp; `MACHINE LEARNING` &nbsp; / &nbsp; `APPLIED AI`
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+*Engineering ideas into useful systems.*
+
+[PROJECTS](#02--selected-builds) &nbsp; · &nbsp; [TECH STACK](#03--engineering-stack) &nbsp; · &nbsp; [CONTACT](#06--connect)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=j-xingh&icon=1&color=6)](https://visitcount.itsvg.in)
 
+### `01 / INTRODUCTION`
+
+I'm an Electronics and Computer Science engineering student focused on **AI engineering, machine learning, and intelligent applications.**
+
+I enjoy working across the process of building AI systems—from understanding the underlying models to developing APIs and designing interfaces people can actually use.
+
+My background in UX/UI design gives me an additional perspective: I care about not only whether a system works, but also how people interact with it.
+
+**CURRENT INTERESTS**
+
+`Deep Learning` &nbsp; `LLM Applications` &nbsp; `Applied Machine Learning` &nbsp; `AI Systems`
+
+---
+
+### `02 / SELECTED BUILDS`
+
+*A selection of experiments, models, and applications.*
+
+<!-- PROJECT CARD 01 -->
+
+#### 01 — FraudGuard
+
+**Machine learning · Fraud detection**
+
+An ML-based transaction fraud detection project. Explore the implementation, model pipeline, and evaluation methodology in the repository.
+
+`PYTHON` &nbsp; `MACHINE LEARNING`
+
+[VIEW REPOSITORY ↗](https://github.com/j-xingh/fraud-guard)
+
+---
+
+<!-- PROJECT CARD 02 -->
+
+#### 02 — Hypecheck
+
+**Machine learning · Text analysis**
+
+An exploration of clickbait detection. The repository contains the application, model-related files, and notebooks; the project overview and evaluation documentation are being developed.
+
+`PYTHON` &nbsp; `NLP / TEXT CLASSIFICATION`
+
+[VIEW REPOSITORY ↗](https://github.com/j-xingh/hypecheck)
+
+---
+
+<!-- Add future projects by duplicating this structure. -->
+
+#### 03 — More experiments in progress
+
+I'm continuing to build and document projects in applied AI, deep learning, and intelligent applications.
+
+*This section will evolve as new projects become ready to showcase.*
+
+---
+
+### `03 / ENGINEERING STACK`
+
+**AI & MACHINE LEARNING**
+
+`Python` · `NumPy` · `Pandas` · `scikit-learn` · `PyTorch`
+
+**DEEP LEARNING & APPLIED AI**
+
+`Neural Networks` · `CNNs` · `Transformers` · `LLM Applications`
+
+**SOFTWARE ENGINEERING**
+
+`FastAPI` · `REST APIs` · `Git` · `GitHub` · `Testing`
+
+**INTERFACE & PRODUCT DESIGN**
+
+`Figma` · `UX/UI Design` · `Prototyping` · `HTML` · `CSS` · `JavaScript`
+
+---
+
+### `04 / CURRENTLY EXPLORING`
+
+```text
+01   Deep learning fundamentals and model behavior
+02   Building practical applications around AI models
+03   Improving model evaluation and experimentation
+04   Writing cleaner, tested, reproducible code
+```
+
+The goal is to move beyond getting a model to run—to understanding its behavior, evaluating its limitations, and building something useful around it.
+
+---
+
+### `05 / ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=j-xingh&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C6FF00&text_color=F2F2F2&icon_color=C6FF00&ring_color=C6FF00" alt="GitHub statistics" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-xingh&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C6FF00&text_color=F2F2F2" alt="Most-used programming languages" width="49%" />
+
+</div>
+
+---
+
+### `06 / CONNECT`
+
+Interested in AI engineering, applied machine learning, and building useful software.
+
+**Email:** jays.work1114@gmail.com
+
+[GitHub](https://github.com/j-xingh) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/)
+
+---
+
+<div align="center">
+
+`DESIGNED WITH INTENT. BUILT THROUGH ITERATION.`
+
+</div>
