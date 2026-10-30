@@ -1,0 +1,50 @@
+{
+  "sections": [
+    {
+      "id": "about",
+      "file": "ABOUT.MD",
+      "kicker": "MUMBAI",
+      "heading": "Howdy, I'm Jay",
+      "type": "text",
+      "paragraphs": [
+        "I'm an AI/ML engineer (Class of 2027) based in Mumbai, with an eye for design. I like models that work, interfaces that feel right, and buttons that are exactly where they should be.",
+        "(If yours is 2px off, I will notice. I'm sorry. I can't help it.)"
+      ]
+    },
+    {
+      "id": "focus",
+      "file": "FOCUS.LOG",
+      "heading": "What I do",
+      "type": "list",
+      "items": [
+        { "lead": "Machine learning and GenAI", "text": "building and shipping models, LLM apps and the plumbing around them" },
+        { "lead": "Design sense", "text": "caring about the last 5% of polish, because users feel it even when they can't name it" },
+        { "lead": "Evals over vibes", "text": "if I can't measure it, I don't trust it" }
+      ]
+    },
+    {
+      "id": "credentials",
+      "file": "CREDENTIALS.TXT",
+      "heading": "Credentials",
+      "type": "list",
+      "items": [
+        { "text": "Machine Learning Specialization" },
+        { "text": "IBM AI Engineer Professional Specialization" },
+        { "text": "IBM Generative AI Specialization" }
+      ]
+    },
+    {
+      "id": "stack",
+      "file": "STACK.CFG",
+      "heading": "Core stack",
+      "type": "groups",
+      "groups": [
+        { "name": "Languages", "items": ["Python", "SQL", "C++"] },
+        { "name": "ML / DL", "items": ["PyTorch", "scikit-learn", "Hugging Face"] },
+        { "name": "GenAI", "items": ["LLMs", "RAG", "LangChain", "Vector DBs", "Fine-tuning", "Evals"] },
+        { "name": "Serving", "items": ["FastAPI", "Docker", "MLOps"] },
+        { "name": "Design", "items": ["Figma", "UI/UX"] }
+      ]
+    }
+  ]
+}
