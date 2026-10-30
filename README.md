@@ -5,8 +5,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
   <img src="./dark.svg" alt="Jay Singh, AI/ML engineer with an eye for design. Terminal-style banner with an ASCII portrait, featured projects FraudGuard and HypeCheck." width="100%">
 </picture>
 
