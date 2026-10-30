@@ -1,40 +1,33 @@
-<div align="center">
-
-<picture>
+<div align="center"> <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg"> 
   <img src="./dark.svg" alt="Jay, AI/ML engineer with an eye for design. Terminal-style profile banner with ASCII portrait, core skills and links.">
-</picture>
-
-</div>
-
-## Howdy, I'm Jay 👋
-
-I'm an **AI/ML** engineer (Class of 2027) based in Mumbai, with an eye for design.
-I like models that work, interfaces that feel right, and buttons that are *exactly* where they should be.
-(If yours is 2px off, I will notice. I'm sorry. I can't help it.)
-
-## What I do
-
-- **Machine learning and GenAI**: building and shipping models, LLM apps and the plumbing around them
-- **Design sense**: caring about the last 5% of polish, because users feel it even when they can't name it
-- **Evals over vibes**: if I can't measure it, I don't trust it
-
-## Credentials
-
-- Machine Learning Specialization
-- IBM AI Engineer Professional Specialization
-- IBM Generative AI Specialization
-
-## Core stack
-
-```text
-Languages     Python · SQL · C++
-ML / DL       PyTorch · scikit-learn · Hugging Face
-GenAI         LLMs · RAG · LangChain · Vector DBs · Fine-tuning · Evals
-Serving       FastAPI · Docker · MLOps
-Design        Figma · UI/UX
-```
+</picture> 
+</div> 
+<p align="center"> 
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-about-dark.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="./assets/section-about-light.svg">
+  <img src="./assets/section-about-dark.svg" width="100%" alt="About Jay">
+</picture> </p>
+<p align="center"> 
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/section-focus-dark.svg"> 
+    <source media="(prefers-color-scheme: light)" srcset="./assets/section-focus-light.svg"> 
+    <img src="./assets/section-focus-dark.svg" width="100%" alt="What I do">
+  </picture> </p>
+  <p align="center"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/section-credentials-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/section-credentials-light.svg"> 
+      <img src="./assets/section-credentials-dark.svg" width="100%" alt="Credentials"> 
+    </picture> </p> 
+    <p align="center">
+      <picture> 
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/section-stack-dark.svg"> 
+        <source media="(prefers-color-scheme: light)" srcset="./assets/section-stack-light.svg">
+        <img src="./assets/section-stack-dark.svg" width="100%" alt="Core stack"> 
+      </picture> </p>
 ---
 
 ## Technical Toolkit
@@ -79,10 +72,10 @@ Design        Figma · UI/UX
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-C6FF00?style=flat-square&logo=github&logoColor=0D0D0D)](https://github.com/j-xingh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B4E600?style=flat-square&logo=linkedin&logoColor=0D0D0D)](https://www.linkedin.com/in/jay-singh1114/)
-[![X](https://img.shields.io/badge/X-A8D900?style=flat-square&logo=x&logoColor=0D0D0D)](https://x.com/JayySlayyys)
-[![Email](https://img.shields.io/badge/Email-96C700?style=flat-square&logo=gmail&logoColor=0D0D0D)](mailto:work.singhjay@gmail.com)
+- [![GitHub](https://img.shields.io/badge/GitHub-C6FF00?style=flat-square&logo=github&logoColor=0D0D0D)](https://github.com/j-xingh)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-B4E600?style=flat-square&logo=linkedin&logoColor=0D0D0D)](https://www.linkedin.com/in/jay-singh1114/)
+- [![X](https://img.shields.io/badge/X-A8D900?style=flat-square&logo=x&logoColor=0D0D0D)](https://x.com/JayySlayyys)
+- [![Email](https://img.shields.io/badge/Email-96C700?style=flat-square&logo=gmail&logoColor=0D0D0D)](mailto:work.singhjay@gmail.com)
 
 <sub>Fun fact: this README passed review only after I fixed the alignment twice.</sub>
 
