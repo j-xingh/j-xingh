@@ -2,41 +2,33 @@
   <img src="assets/Neon Network Systems Banner.png" alt="Jay Singh — Building Intelligent Systems" width="100%">
 </p>
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Jay Singh — AI engineering profile. Focused on applied AI and machine learning engineering, with selected work in spam classification, fraud detection, and remote-sensing vision-language systems.">
+  <img src="./dark.svg" alt="Jay Singh, AI/ML engineer with an eye for design. Terminal-style banner with an ASCII portrait, featured projects FraudGuard and HypeCheck." width="100%">
 </picture>
 
-## Hey, I'm Jay.
+</div>
 
-I’m an engineering student focused on **AI engineering and machine learning**—building practical systems that connect models, APIs, evaluation, and usable product experiences.
+## Heyya, I’m Jay
 
-### Focus
-- Applied machine learning and model evaluation
-- Python-based AI systems and API development
-- Generative AI and vision-language applications
-- Building projects with clear structure, tests, and documentation
+AI/ML engineer who can’t unsee a misaligned button. Class of 2027, looking for internships and full-time roles in AI/ML.
 
-### Selected projects
+## Focus
 
-| Project | What it explores |
-|---|---|
-| **SIFT Spam Classifier** | A spam-classification pipeline using TF-IDF features and Logistic Regression, with a tested API. |
-| **FraudGuard** | A machine-learning fraud-detection pipeline. |
-| **SatQuery AI** | A vision-language assistant concept for text-based analysis of remote-sensing imagery. |
+- Building machine-learning systems end to end, from pipeline to the interface people actually touch.
+- UX/UI design background, including freelance work and a full website build for an AI startup.
+- Team lead, Team Cybernauts, Smart India Hackathon 2026.
 
-### Engineering toolkit
+## Featured projects
 
-**Core:** Python · NumPy · Pandas · Git/GitHub  
-**Machine learning:** PyTorch · scikit-learn  
-**APIs:** FastAPI  
-**Product engineering:** Next.js · Tailwind CSS
+- **FraudGuard**: a machine-learning fraud-detection pipeline.
+- **MandiSense**: a price discovery tool for farmers.
 
-### Connect
+More on my [repositories page](https://github.com/j-xingh?tab=repositories).
 
-- **GitHub:** [j-xingh](https://github.com/j-xingh)
+## Connect
 
----
-
-*This profile is a work in progress. I’m focused on building, evaluating, and documenting useful AI systems.*
+[LinkedIn](https://www.linkedin.com/in/jay-singh1114/) · [Email](mailto:work.singhjay@gmail.com) · [GitHub](https://github.com/j-xingh)
