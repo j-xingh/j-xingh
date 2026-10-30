@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="250" viewBox="0 0 1180 250" role="img" aria-label="GitHub activity for j-xingh: contributions / 1y 59, commits 53, pull requests 0, stars earned 0, public repos 8, followers 22">
+<title>GitHub activity — j-xingh</title>
+<style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}</style>
+<defs><radialGradient id="g" cx="30%" cy="10%" r="100%"><stop offset="0" stop-color="#0D100B"/><stop offset="1" stop-color="#050505"/></radialGradient></defs>
+<rect x="1" y="1" width="1178" height="248" rx="22" fill="url(#g)" stroke="#39451A"/>
+<path d="M1 40V23a22 22 0 0 1 22-22H1157a22 22 0 0 1 22 22V40Z" fill="#090B08"/>
+<circle cx="26" cy="21" r="5" fill="#C6FF00"/>
+<circle cx="44" cy="21" r="5" fill="#596B1D"/>
+<circle cx="62" cy="21" r="5" fill="#4A5043"/>
+<text x="590.0" y="25" class="m" font-size="11" letter-spacing="3" fill="#9CA392" text-anchor="middle">ACTIVITY.LOG</text>
+<circle cx="1114" cy="21" r="3" fill="#C6FF00"><animate attributeName="opacity" values="1;.3;1" dur="2.4s" repeatCount="indefinite"/></circle><text x="1156" y="25" class="m" font-size="10" letter-spacing="2" fill="#9CA392" text-anchor="end">LIVE</text>
+<text x="131.7" y="100" class="m" font-size="40" font-weight="bold" fill="#F4F5EF" text-anchor="middle">59</text>
+<text x="131.7" y="126" class="m" font-size="10" letter-spacing="2" fill="#C6FF00" text-anchor="middle">CONTRIBUTIONS / 1Y</text>
+<text x="315.0" y="100" class="m" font-size="40" font-weight="bold" fill="#F4F5EF" text-anchor="middle">53</text>
+<text x="315.0" y="126" class="m" font-size="10" letter-spacing="2" fill="#C6FF00" text-anchor="middle">COMMITS</text>
+<line x1="223.3" y1="70" x2="223.3" y2="130" stroke="#272B24"/>
+<text x="498.3" y="100" class="m" font-size="40" font-weight="bold" fill="#F4F5EF" text-anchor="middle">0</text>
+<text x="498.3" y="126" class="m" font-size="10" letter-spacing="2" fill="#C6FF00" text-anchor="middle">PULL REQUESTS</text>
+<line x1="406.7" y1="70" x2="406.7" y2="130" stroke="#272B24"/>
+<text x="681.7" y="100" class="m" font-size="40" font-weight="bold" fill="#F4F5EF" text-anchor="middle">0</text>
+<text x="681.7" y="126" class="m" font-size="10" letter-spacing="2" fill="#C6FF00" text-anchor="middle">STARS EARNED</text>
+<line x1="590.0" y1="70" x2="590.0" y2="130" stroke="#272B24"/>
+<text x="865.0" y="100" class="m" font-size="40" font-weight="bold" fill="#F4F5EF" text-anchor="middle">8</text>
+<text x="865.0" y="126" class="m" font-size="10" letter-spacing="2" fill="#C6FF00" text-anchor="middle">PUBLIC REPOS</text>
+<line x1="773.3" y1="70" x2="773.3" y2="130" stroke="#272B24"/>
+<text x="1048.3" y="100" class="m" font-size="40" font-weight="bold" fill="#F4F5EF" text-anchor="middle">22</text>
+<text x="1048.3" y="126" class="m" font-size="10" letter-spacing="2" fill="#C6FF00" text-anchor="middle">FOLLOWERS</text>
+<line x1="956.7" y1="70" x2="956.7" y2="130" stroke="#272B24"/>
+<text x="40" y="172" class="m" font-size="10" letter-spacing="3" fill="#9CA392">TOP LANGUAGES</text>
+<rect x="40" y="182" width="1100" height="8" rx="4" fill="#171B14"/>
+<rect x="40.0" y="182" width="548.0" height="8" rx="2" fill="#C6FF00"/>
+<rect x="590.0" y="182" width="181.3" height="8" rx="2" fill="#A3D100"/>
+<rect x="773.3" y="182" width="181.3" height="8" rx="2" fill="#7E9E00"/>
+<rect x="956.7" y="182" width="181.3" height="8" rx="2" fill="#596B1D"/>
+<circle cx="44" cy="214" r="4" fill="#C6FF00"/><text x="54" y="218" class="m" font-size="12" fill="#F4F5EF">Jupyter Notebook <tspan fill="#9CA392">50%</tspan></text>
+<circle cx="243.79999999999998" cy="214" r="4" fill="#A3D100"/><text x="253.79999999999998" y="218" class="m" font-size="12" fill="#F4F5EF">Python <tspan fill="#9CA392">17%</tspan></text>
+<circle cx="365.59999999999997" cy="214" r="4" fill="#7E9E00"/><text x="375.59999999999997" y="218" class="m" font-size="12" fill="#F4F5EF">TypeScript <tspan fill="#9CA392">17%</tspan></text>
+<circle cx="518.5999999999999" cy="214" r="4" fill="#596B1D"/><text x="528.5999999999999" y="218" class="m" font-size="12" fill="#F4F5EF">HTML <tspan fill="#9CA392">17%</tspan></text>
+</svg>
