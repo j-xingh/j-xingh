@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/neural-banner.svg" alt="Jay Singh — Building Intelligent Systems" width="100%">
+  <img src="assets/Neon Network System Banner.png" alt="Jay Singh — Building Intelligent Systems" width="100%">
 </p>
 
 <p align="center">
