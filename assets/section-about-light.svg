@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="244" viewBox="0 0 1180 244" role="img" aria-label="Howdy, I'm Jay. I'm an AI/ML engineer (Class of 2027) based in Mumbai, with an eye for design. I like models that work, interfaces that feel right, and buttons that are exactly where they should be. (If yours is 2px off, I will notice. I'm sorry. I can't help it.)">
+<title>Howdy, I'm Jay</title><style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}</style>
+<defs><radialGradient id="g" cx="30%" cy="0%" r="110%"><stop offset="0" stop-color="#E9EDE1"/><stop offset="1" stop-color="#FAFAF6"/></radialGradient></defs>
+<rect x="1" y="1" width="1178" height="242" rx="22" fill="url(#g)" stroke="#C8D0B8"/>
+<path d="M1 40V23a22 22 0 0 1 22-22H1157a22 22 0 0 1 22 22V40Z" fill="#090B08"/>
+<circle cx="26" cy="21" r="5" fill="#C6FF00"/>
+<circle cx="44" cy="21" r="5" fill="#596B1D"/>
+<circle cx="62" cy="21" r="5" fill="#4A5043"/>
+<text x="590.0" y="25" class="m" font-size="11" font-weight="normal" letter-spacing="3" fill="#C8CEBC" text-anchor="middle">ABOUT.MD</text>
+<text x="1156" y="25" class="m" font-size="10" font-weight="normal" letter-spacing="2" fill="#C8CEBC" text-anchor="end">profile.json</text>
+<line x1="322" y1="84" x2="322" y2="204" stroke="#D8DDCE"/>
+<text x="40" y="92" class="m" font-size="10" font-weight="normal" letter-spacing="3" fill="#566D00" text-anchor="start">MUMBAI</text>
+<text x="40" y="132" class="m" font-size="28" font-weight="bold" letter-spacing="0" fill="#11130D" text-anchor="start">Howdy, I'm Jay</text>
+<text x="350" y="100" class="m" font-size="15" font-weight="normal" letter-spacing="0" fill="#20241A" text-anchor="start">I'm an AI/ML engineer (Class of 2027) based in Mumbai, with an eye for design. I</text>
+<text x="350" y="127" class="m" font-size="15" font-weight="normal" letter-spacing="0" fill="#20241A" text-anchor="start">like models that work, interfaces that feel right, and buttons that are exactly</text>
+<text x="350" y="154" class="m" font-size="15" font-weight="normal" letter-spacing="0" fill="#20241A" text-anchor="start">where they should be.</text>
+<text x="350" y="193" class="m" font-size="15" font-weight="normal" letter-spacing="0" fill="#20241A" text-anchor="start">(If yours is 2px off, I will notice. I'm sorry. I can't help it.)</text>
+</svg>

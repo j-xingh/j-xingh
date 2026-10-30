@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="318" viewBox="0 0 1180 318" role="img" aria-label="Core stack. Languages: Python, SQL, C++ ML / DL: PyTorch, scikit-learn, Hugging Face GenAI: LLMs, RAG, LangChain, Vector DBs, Fine-tuning, Evals Serving: FastAPI, Docker, MLOps Design: Figma, UI/UX">
+<title>Core stack</title><style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}</style>
+<defs><radialGradient id="g" cx="30%" cy="0%" r="110%"><stop offset="0" stop-color="#0D100B"/><stop offset="1" stop-color="#050505"/></radialGradient></defs>
+<rect x="1" y="1" width="1178" height="316" rx="22" fill="url(#g)" stroke="#39451A"/>
+<path d="M1 40V23a22 22 0 0 1 22-22H1157a22 22 0 0 1 22 22V40Z" fill="#090B08"/>
+<circle cx="26" cy="21" r="5" fill="#C6FF00"/>
+<circle cx="44" cy="21" r="5" fill="#596B1D"/>
+<circle cx="62" cy="21" r="5" fill="#4A5043"/>
+<text x="590.0" y="25" class="m" font-size="11" font-weight="normal" letter-spacing="3" fill="#9CA392" text-anchor="middle">STACK.CFG</text>
+<text x="1156" y="25" class="m" font-size="10" font-weight="normal" letter-spacing="2" fill="#9CA392" text-anchor="end">profile.json</text>
+<line x1="322" y1="84" x2="322" y2="278" stroke="#272B24"/>
+<text x="40" y="114" class="m" font-size="28" font-weight="bold" letter-spacing="0" fill="#F4F5EF" text-anchor="start">Core stack</text>
+<text x="350" y="101" class="m" font-size="10" font-weight="normal" letter-spacing="2" fill="#C6FF00" text-anchor="start">LANGUAGES</text>
+<rect x="480.0" y="84" width="74.2" height="26" rx="13" fill="#171B14" fill-opacity=".8" stroke="#39451A"/><circle cx="495.0" cy="97" r="3" fill="#C6FF00"/><text x="506.0" y="101" class="m" font-size="11" font-weight="normal" letter-spacing="0" fill="#E8EBDD" text-anchor="start">Python</text>
+<rect x="564.2" y="84" width="54.1" height="26" rx="13" fill="#171B14" fill-opacity=".8" stroke="#39451A"/><circle cx="579.2" cy="97" r="3" fill="#C6FF00"/><text x="590.2" y="101" class="m" font-size="11" font-weight="normal" letter-spacing="0" fill="#E8EBDD" text-anchor="start">SQL</text>
+<rect x="628.3" y="84" width="54.1" height="26" rx="13" fill="#171B14" fill-opacity=".8" stroke="#39451A"/><circle cx="643.3" cy="97" r="3" fill="#C6FF00"/><text x="654.3" y="101" class="m" font-size="11" font-weight="normal" letter-spacing="0" fill="#E8EBDD" text-anchor="start">C++</text>
+<text x="350" y="143" class="m" font-size="10" font-weight="normal" letter-spacing="2" fill="#C6FF00" text-anchor="start">ML / DL</text>
+<rect x="480.0" y="126" width="80.9" height="26" rx="13" fill="#171B14" fill-opacity=".8" stroke="#39451A"/><circle cx="495.0" cy="139" r="3" fill="#C6FF00"/><text x="506.0" y="143" class="m" font-size="11" font-weight="normal" letter-spacing="0" fill="#E8EBDD" text-anchor="start">PyTorch</text>
+<rect x="570.9" y="126" width="114.4" height="26" rx="13" fill="#171B14" fill-opacity=".8" stroke="#39451A"/><circle cx="585.9" cy="139" r="3" fill="#C6FF00"/><text x="596.9" y="143" class="m" font-size="11" font-weight="normal" letter-spacing="0" fill="#E8EBDD" text-anchor="start">scikit-learn</text>
+<rect x="695.3" y="126" width="114.4" height="26" rx="13" fill="#171B14" fill-opacity=".8" stroke="#39451A"/><circle cx="710.3" cy="139" r="3" fill="#C6FF00"/><text x="721.3" y="143" class="m" font-size="11" font-weight="normal" letter-spacing="0" fill="#E8EBDD" text-anchor="start">Hugging Face</text>
+<text x="350" y="185" class="m" font-size="10" font-weight="normal" letter-spacing="2" fill="#C6FF00" text-anchor="start">GENAI</text>
+<rect x="480.0" y="168" width="60.8" height="26" rx="13" fill="#171B14" fill-opacity=".8" stroke="#39451A"/><circle cx="495.0" cy="181" r="3" fill="#C6FF00"/><text x="506.0" y="185" class="m" font-size="11" font-weight="normal" letter-spacing="0" fill="#E8EBDD" text-anchor="start">LLMs</text>
+<rect x="550.8" y="168" width="54.1" height="26" rx="13" fill="#171B14" fill-opacity=".8" stroke="#39451A"/><circle cx="565.8" cy="181" r="3" fill="#C6FF00"/><text x="576.8" y="185" class="m" font-size="11" font-weight="normal" letter-spacing="0" fill="#E8EBDD" text-anchor="start">RAG</text>
+<rect x="614.9" y="168" width="94.3" height="26" rx="13" fill="#171B14" fill-opacity=".8" stroke="#39451A"/><circle cx="629.9" cy="181" r="3" fill="#C6FF00"/><text x="640.9" y="185" class="m" font-size="11" font-weight="normal" letter-spacing="0" fill="#E8EBDD" text-anchor="start">LangChain</text>
+<rect x="719.2" y="168" width="101.0" height="26" rx="13" fill="#171B14" fill-opacity=".8" stroke="#39451A"/><circle cx="734.2" cy="181" r="3" fill="#C6FF00"/><text x="745.2" y="185" class="m" font-size="11" font-weight="normal" letter-spacing="0" fill="#E8EBDD" text-anchor="start">Vector DBs</text>
+<rect x="830.2" y="168" width="107.7" height="26" rx="13" fill="#171B14" fill-opacity=".8" stroke="#39451A"/><circle cx="845.2" cy="181" r="3" fill="#C6FF00"/><text x="856.2" y="185" class="m" font-size="11" font-weight="normal" letter-spacing="0" fill="#E8EBDD" text-anchor="start">Fine-tuning</text>
+<rect x="947.9" y="168" width="67.5" height="26" rx="13" fill="#171B14" fill-opacity=".8" stroke="#39451A"/><circle cx="962.9" cy="181" r="3" fill="#C6FF00"/><text x="973.9" y="185" class="m" font-size="11" font-weight="normal" letter-spacing="0" fill="#E8EBDD" text-anchor="start">Evals</text>
+<text x="350" y="227" class="m" font-size="10" font-weight="normal" letter-spacing="2" fill="#C6FF00" text-anchor="start">SERVING</text>
+<rect x="480.0" y="210" width="80.9" height="26" rx="13" fill="#171B14" fill-opacity=".8" stroke="#39451A"/><circle cx="495.0" cy="223" r="3" fill="#C6FF00"/><text x="506.0" y="227" class="m" font-size="11" font-weight="normal" letter-spacing="0" fill="#E8EBDD" text-anchor="start">FastAPI</text>
+<rect x="570.9" y="210" width="74.2" height="26" rx="13" fill="#171B14" fill-opacity=".8" stroke="#39451A"/><circle cx="585.9" cy="223" r="3" fill="#C6FF00"/><text x="596.9" y="227" class="m" font-size="11" font-weight="normal" letter-spacing="0" fill="#E8EBDD" text-anchor="start">Docker</text>
+<rect x="655.1" y="210" width="67.5" height="26" rx="13" fill="#171B14" fill-opacity=".8" stroke="#39451A"/><circle cx="670.1" cy="223" r="3" fill="#C6FF00"/><text x="681.1" y="227" class="m" font-size="11" font-weight="normal" letter-spacing="0" fill="#E8EBDD" text-anchor="start">MLOps</text>
+<text x="350" y="269" class="m" font-size="10" font-weight="normal" letter-spacing="2" fill="#C6FF00" text-anchor="start">DESIGN</text>
+<rect x="480.0" y="252" width="67.5" height="26" rx="13" fill="#171B14" fill-opacity=".8" stroke="#39451A"/><circle cx="495.0" cy="265" r="3" fill="#C6FF00"/><text x="506.0" y="269" class="m" font-size="11" font-weight="normal" letter-spacing="0" fill="#E8EBDD" text-anchor="start">Figma</text>
+<rect x="557.5" y="252" width="67.5" height="26" rx="13" fill="#171B14" fill-opacity=".8" stroke="#39451A"/><circle cx="572.5" cy="265" r="3" fill="#C6FF00"/><text x="583.5" y="269" class="m" font-size="11" font-weight="normal" letter-spacing="0" fill="#E8EBDD" text-anchor="start">UI/UX</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="322" viewBox="0 0 1180 322" role="img" aria-label="What I do. Machine learning and GenAI building and shipping models, LLM apps and the plumbing around them Design sense caring about the last 5% of polish, because users feel it even when they can't name it Evals over vibes if I can't measure it, I don't trust it">
+<title>What I do</title><style>.m{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}</style>
+<defs><radialGradient id="g" cx="30%" cy="0%" r="110%"><stop offset="0" stop-color="#E9EDE1"/><stop offset="1" stop-color="#FAFAF6"/></radialGradient></defs>
+<rect x="1" y="1" width="1178" height="320" rx="22" fill="url(#g)" stroke="#C8D0B8"/>
+<path d="M1 40V23a22 22 0 0 1 22-22H1157a22 22 0 0 1 22 22V40Z" fill="#090B08"/>
+<circle cx="26" cy="21" r="5" fill="#C6FF00"/>
+<circle cx="44" cy="21" r="5" fill="#596B1D"/>
+<circle cx="62" cy="21" r="5" fill="#4A5043"/>
+<text x="590.0" y="25" class="m" font-size="11" font-weight="normal" letter-spacing="3" fill="#C8CEBC" text-anchor="middle">FOCUS.LOG</text>
+<text x="1156" y="25" class="m" font-size="10" font-weight="normal" letter-spacing="2" fill="#C8CEBC" text-anchor="end">profile.json</text>
+<line x1="322" y1="84" x2="322" y2="282" stroke="#D8DDCE"/>
+<text x="40" y="114" class="m" font-size="28" font-weight="bold" letter-spacing="0" fill="#11130D" text-anchor="start">What I do</text>
+<rect x="350" y="89" width="7" height="7" fill="#A8D900"/>
+<text x="374" y="100" class="m" font-size="15" font-weight="bold" letter-spacing="0" fill="#11130D" text-anchor="start">Machine learning and GenAI</text>
+<text x="374" y="122" class="m" font-size="14" font-weight="normal" letter-spacing="0" fill="#626858" text-anchor="start">building and shipping models, LLM apps and the plumbing around them</text>
+<rect x="350" y="150" width="7" height="7" fill="#A8D900"/>
+<text x="374" y="161" class="m" font-size="15" font-weight="bold" letter-spacing="0" fill="#11130D" text-anchor="start">Design sense</text>
+<text x="374" y="183" class="m" font-size="14" font-weight="normal" letter-spacing="0" fill="#626858" text-anchor="start">caring about the last 5% of polish, because users feel it even when they can't</text>
+<text x="374" y="206" class="m" font-size="14" font-weight="normal" letter-spacing="0" fill="#626858" text-anchor="start">name it</text>
+<rect x="350" y="234" width="7" height="7" fill="#A8D900"/>
+<text x="374" y="245" class="m" font-size="15" font-weight="bold" letter-spacing="0" fill="#11130D" text-anchor="start">Evals over vibes</text>
+<text x="374" y="267" class="m" font-size="14" font-weight="normal" letter-spacing="0" fill="#626858" text-anchor="start">if I can't measure it, I don't trust it</text>
+</svg>
