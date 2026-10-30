@@ -1,16 +1,16 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
   <img src="./dark.svg" alt="Jay, AI/ML engineer with an eye for design. Terminal-style profile banner with ASCII portrait, core skills and links.">
 </picture>
 
 </div>
 
-## Hey, I'm Jay 👋
+## Howdy, I'm Jay 👋
 
-I'm an engineer(Class of 2027) based in Mumbai, focused heavily on **AI/ML**, with an eye for design.
+I'm an **AI/ML** engineer (Class of 2027) based in Mumbai, with an eye for design.
 I like models that work, interfaces that feel right, and buttons that are *exactly* where they should be.
 (If yours is 2px off, I will notice. I'm sorry. I can't help it.)
 
@@ -64,11 +64,18 @@ Design        Figma · UI/UX
 
 ## GitHub activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=j-xingh&show_icons=true&hide_border=false&bg_color=0D100B&title_color=C6FF00&text_color=E8EBDD&icon_color=C6FF00&border_color=39451A">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=j-xingh&show_icons=true&hide_border=false&bg_color=FAFAF6&title_color=566D00&text_color=20241A&icon_color=91BD00&border_color=C8D0B8">
-  <img src="https://github-readme-stats.vercel.app/api?username=j-xingh&show_icons=true&bg_color=0D100B&title_color=C6FF00&text_color=E8EBDD&icon_color=C6FF00&border_color=39451A" alt="Jay's GitHub stats">
-</picture>
+<p align="center"> <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg"> 
+  <img src="./assets/stats-dark.svg" width="100%" alt="GitHub activity statistics">
+</picture> 
+</p> 
+<p align="center"> <picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/j-xingh/j-xingh/output/snake-dark.svg"> 
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/j-xingh/j-xingh/output/snake-light.svg"> 
+  <img src="https://raw.githubusercontent.com/j-xingh/j-xingh/output/snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"> 
+</picture> 
+</p>
 
 ## Connect
 
